@@ -1,0 +1,17 @@
+body {
+    background-color: #921111;
+}
+
+.main {
+    width: 600px;
+    margin: auto;
+    background-color: red;
+    color: black;
+    border: 36px double;
+    padding: 16px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+}
